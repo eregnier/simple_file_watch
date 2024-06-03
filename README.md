@@ -51,3 +51,8 @@ debug option (-d) will help you check if the watch configuration works as expect
 go build main.go
 strip main # optional. this reduce the binary file size from 2.6MB to 1.7MB
 ```
+
+## Demo
+
+https://github.com/eregnier/simple_file_watch/assets/5399780/9d58e1ca-03b0-4eb0-8d1c-c0494c739eb1
+
